@@ -1,0 +1,5 @@
+</div>
+<footer class="footer"><span>© 2026 Smart LMS</span><span>Built for better learning · Keep showing up.</span></footer>
+</main></div>
+<script src="<%=ctx%>/js/app.js"></script>
+</body></html>
